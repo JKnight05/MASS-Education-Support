@@ -690,3 +690,13 @@ You don't need to write any code—focus on the design.
 - Split projects into multiple files early.
 - Small, organised code is much easier to debug, maintain and extend.
 - Good code isn't just about making it work—it's about making it easy to understand and improve.
+
+# Other helpful links
+
+[Real Python Article](https://realpython.com/python3-object-oriented-programming/#:~:text=Object%2Doriented%20programming%20(OOP)%20in%20Python%20helps%20you%20structure,then%20create%20objects%20from%20them.)
+
+[Quick Article](https://medium.com/@ai-futures/why-object-oriented-programming-matters-in-python-9c74f380ce26)
+
+[Geeks for Geeks (always good for the basics)](https://www.geeksforgeeks.org/python/python-oops-concepts/)
+
+[CustomTkinter Documentation](https://customtkinter.tomschimansky.com/)
